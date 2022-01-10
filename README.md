@@ -8,10 +8,7 @@
 
 Hard-working Full Stack Web Developer with a flair for creating elegant solutions in the least amount of time.
 
-Venturing into the world of technology, but with a solid experience in structured study and communication skills to seek new ideas and debate them in order to always be growing, both provided by my other passion: legal sciences
-
-I see web development as a gateway to the world of technologies, in order to train in logical thinking and turn in a second stage to other technologies and branches of software development, combining my two passions and thus provide technological solutions to legal issues.
-If you are looking for a person with the ability to always be looking for new solutions through research, debate and communication, you are in the right profile.
+I am 22 years old Argentinian. My first passion is law, I seek through technology to find modern solutions to legal issues. I am currently focused on full stack web development, systems, AGILE methodologies, digital transformation and learn new technologies to exploit them.
 
 
 ## 🚀 Languages and Tools:
