@@ -1,4 +1,4 @@
-<a href="#"><img width="100%" height="300px" src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" height="175px"/></a>
+<a href="#"><img width="1000vw" height="300px"  src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" height="175px"/></a>
 
 <h1 align="center">Hi, I'm Tomás</h1>
 <h3 align="center">Full Stack Developer.</h3>
@@ -8,7 +8,7 @@
 
 Hard-working Full Stack Web Developer with a flair for creating elegant solutions in the least amount of time.
 
-I am 22 years old Argentinian. My first passion is law, I seek through technology to find modern solutions to legal issues. I am currently focused on full stack web development, systems, AGILE methodologies, digital transformation and learn new technologies to exploit them.
+I am 23 years old Argentinian. My first passion is law, I seek through technology to find modern solutions to legal issues. I am currently focused on full stack web development, systems, AGILE methodologies, digital transformation and learn new technologies to exploit them.
 
 
 ## 🚀 Languages and Tools:
