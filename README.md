@@ -1,5 +1,3 @@
-<a href="#"><img width="1000vw" height="300px"  src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" height="175px"/></a>
-
 <h1 align="center">Hi, I'm Tomás</h1>
 <h3 align="center">Full Stack Developer.</h3>
 
