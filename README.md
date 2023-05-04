@@ -6,7 +6,7 @@
 
 Hard-working Full Stack Web Developer with a flair for creating elegant solutions in the least amount of time.
 
-I am 23 years old Argentinian. My first passion is law, I seek through technology to find modern solutions to legal issues. I am currently focused on full stack web development, systems, AGILE methodologies, digital transformation and learn new technologies to exploit them.
+I am 24 years old Argentinian. My first passion is law, I seek through technology to find modern solutions to legal issues. I am currently focused on full stack web development, systems, AGILE methodologies, digital transformation and learn new technologies to exploit them.
 
 
 ## 🚀 Languages and Tools:
@@ -53,4 +53,4 @@ I am 23 years old Argentinian. My first passion is law, I seek through technolog
 ## Connect with me:
 <p align="left">
 
-<a href = "https://www.linkedin.com/in/tomaslopezmancina-fullstack/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
+<a href = "https://www.linkedin.com/in/tomaslopezmancina/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
