@@ -11,6 +11,8 @@ I am 24 years old Argentinian. My first passion is law, I seek through technolog
 
 ## 🚀 Languages and Tools:
 
+<a href="https://learn.microsoft.com/en-us/dotnet/csharp/" target="_blank"><img src="https://img.icons8.com/nolan/64/cs.png" width="40" height="40"/> </a> 
+<a href="https://learn.microsoft.com/en-us/dotnet/csharp/" target="_blank">C#</a>
 
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img src="https://img.icons8.com/color/48/000000/javascript--v1.png"  width="40" height="40"/> </a> 
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">JavaScript</a>
