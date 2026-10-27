@@ -6,7 +6,7 @@
 
 Hard-working Full Stack Web Developer with a flair for creating elegant solutions in the least amount of time.
 
-I am 26 years old Argentinian. My first passion is law, I seek through technology to find modern solutions to legal issues. I am currently focused on full stack web development, systems, AGILE methodologies, digital transformation and learn new technologies to exploit them.
+I am 27 years old Argentinian. My first passion is law, I seek through technology to find modern solutions to legal issues. I am currently focused on full stack web development, systems, AGILE methodologies, digital transformation and learn new technologies to exploit them.
 
 
 ## 🚀 Languages and Tools:
